@@ -1,6 +1,8 @@
 # Méthodes d'apprentissage supervisé: Data Challenge 
 Benali Nafissa, Fuentes Vicente Laura 
 
+*Novembre 2023*
+
 M2 Mathématiques et Intelligence Artificielle 2023/2024 
 
 ## Introduction: 
